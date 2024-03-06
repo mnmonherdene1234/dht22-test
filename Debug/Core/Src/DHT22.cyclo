@@ -1,0 +1,5 @@
+../Core/Src/DHT22.c:17:6:DHT22_Init	1
+../Core/Src/DHT22.c:21:6:DHT22_MicroDelay	2
+../Core/Src/DHT22.c:27:9:DHT22_Start	5
+../Core/Src/DHT22.c:56:9:DHT22_Read	7
+../Core/Src/DHT22.c:80:6:DHT22_Loop	4
